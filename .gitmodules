@@ -12,7 +12,7 @@
 	ignore = dirty
 [submodule "external/rawspeed"]
 	path = external/rawspeed
-	url = git://github.com/klauspost/rawspeed.git
+	url = git://github.com/darktable-org/rawspeed.git
 	ignore = dirty
 [submodule "external/LibRaw-cmake"]
 	path = external/LibRaw-cmake
